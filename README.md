@@ -139,3 +139,7 @@ This will start:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Commands to Run the Setup
+server: python3 main.py
+UI: python3 -m streamlit run code_monitor/chat_interface/streamlit_app.py
