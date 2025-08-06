@@ -23,6 +23,6 @@ python-jose==3.3.0
 passlib==1.7.4
 bcrypt==4.1.2
 transformers==4.34.0
-torch==2.0.1
+torch==2.2.0
 sentencepiece==0.1.99
 accelerate==0.23.0
